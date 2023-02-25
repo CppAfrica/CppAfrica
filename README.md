@@ -22,7 +22,7 @@ We provide
 - Help to each other in job search & opportunities.
 - Provide a space for companies to find a best C++ candidate
 We are always open to new ways of thinking
- 
+ <br>
 
 
 ## What can you do to help?
@@ -35,15 +35,17 @@ We are always open to new ways of thinking
 - Join our Discord server.
 - Follow us on Twitter. LinkedIn and Facebook comming soon
 - Spread the gospel of C++ africa.
-
+<br>
 
 ## Support
 
-For support, email info@cppafrica.org or join our Discord channel.
-
+For support, email info@cppafrica.org or join our Discord channel.<br>
+<a href="https://www.buymeacoffee.com/CppAfrica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<br>
 
 ## 🔗 Links
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CppAfrica)
 
+ 
 
