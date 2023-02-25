@@ -14,11 +14,13 @@ Here, you can find a welcoming space to learn and discuss C++
 We want to create an ecosystem for C++ developers and companies who work in C++ so that they come to C++ africa for any of their C++ related queries or requirements.
 
 ## What do we do?
-We provide
-- Welcoming space for people to discuss & learn C++.
-- Community tech-talks on every alternate Saturday.
+
+- Providing a supportive and collaborative environment for developers to share knowledge, ask questions, and receive feedback.
+
+- Fostering professional growth and development for members by offering opportunities to learn new skills and technologies.
+- Building a sense of community and belonging among members, creating a network of peers who can offer support and resources.
 - Guidance to junior programmers to get started.
-- Help to each other in job search & opportunities.
+- Encouraging members to contribute to open-source projects and promote open-source culture.
 - Provide a space for companies to find a best C++ candidate
 We are always open to new ways of thinking
  <br>
