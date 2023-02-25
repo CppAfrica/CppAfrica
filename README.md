@@ -1,7 +1,7 @@
 ![Logo](https://drive.google.com/file/d/15hooBKbXC9Wt6fj0EBGrIwrNsTufeaXX/view)
 
 
-# Hi, Welcome to C++ <africa> Community ! 👋 <br>
+# Hi, Welcome to C++ africa Community ! 👋 <br>
 
 # Who Are We?
 
@@ -38,7 +38,7 @@ We are always open to new ways of thinking
 
 ## Support
 
-For support, email info@cppafrica.org or join our Discord channel.<br><p>
+For support, email info@cppafrica.org or join our <a href="https://discord.gg/aSzjFS6Bxj"> Discord channel.</a><br><p>
 <a href="https://www.buymeacoffee.com/CppAfrica" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br>
 
