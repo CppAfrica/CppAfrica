@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/15hooBKbXC9Wt6fj0EBGrIwrNsTufeaXX/view)
+![Logo](https://github.com/CppAfrica/CppAfrica/blob/4a1cab16b484c1cc1bf6043416d3f9722524b7d6/CPPAFRICA.jpg  )
 
 
 # Hi, Welcome to C++ africa Community ! 👋 <br>
