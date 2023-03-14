@@ -5,13 +5,15 @@
 
 # Who Are We?
 
-C++ africa is a community for developers having mutual interest in C++. 
-Here, you can find a welcoming space to learn and discuss C++
+C++ Africa is a community for developers having mutual interest in C++. 
+Here, you can find a welcoming space to learn and discuss C++.
+<br>
 
 
 ## What is our vision
 
 We want to create an ecosystem for C++ developers and companies who work in C++ so that they come to C++ africa for any of their C++ related queries or requirements.
+<br>
 
 ## What do we do?
 
