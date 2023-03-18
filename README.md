@@ -31,7 +31,7 @@ We are always open to new ways of thinking
 ## What can you do to help?
 
 - Be Interactive in the community!!!
-- Present on any C++ topic in community tech-talk.
+- Present talks on C++ topics.
 - Helps organizers to organize community discussion/tech-talks.
 - Read our resources, and let us know about anything that’s worth adding.
 - Share your project with us so that we can work as a team to create better project.
